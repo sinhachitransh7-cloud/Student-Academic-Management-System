@@ -1,1 +1,0 @@
-# Student-Academic-Management-System
