@@ -1,0 +1,18 @@
+{
+    "student": {
+        "name": "chitransh",
+        "roll_no": "24",
+        "branch": "cs"
+    },
+    "assignments": [
+        {
+            "title": "python project",
+            "subject": "py",
+            "deadline": "20",
+            "status": "Pending"
+        }
+    ],
+    "marks": {
+        "py": 40.0
+    }
+}
